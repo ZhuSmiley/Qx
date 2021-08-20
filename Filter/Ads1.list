@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,ad.mobile.youku.com
 DOMAIN,iyes.youku.com
 DOMAIN,pl.cp31.ott.cibntv.net
-# > AMap_高德
+# > AMap_赂脽碌脗
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 
@@ -240,7 +240,7 @@ DOMAIN,t-ads.xiaohongshu.com
 # (Y)
 
 # (Z)
-# > Zhihu_已在Filter Local,暂时屏蔽
+# > Zhihu_Filter Local,
 #USER-AGENT,AVOS*
 #DOMAIN,appcloud2.in.zhihu.com
 #DOMAIN,mqtt.zhihu.com
