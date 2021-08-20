@@ -9,3 +9,5 @@ hostname = api.m.jd.com
 
 
 https://github.com/w37fhy/QuantumultX/blob/master/QuantumultX_JS.conf
+
+https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_JS.conf
