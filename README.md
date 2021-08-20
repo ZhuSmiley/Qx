@@ -6,3 +6,6 @@
 
 [mitm]
 hostname = api.m.jd.com
+
+
+https://github.com/w37fhy/QuantumultX/blob/master/QuantumultX_JS.conf
