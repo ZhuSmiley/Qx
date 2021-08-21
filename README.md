@@ -14,3 +14,7 @@ https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_JS.conf
 
 vmess=ws-tls-zhumax.xyz:689, method=none, password=c92102ab-6414-40d3-83e1-0e24a874b814, obfs-host=ws-tls-zhumax.xyz, obfs=wss, obfs-uri=/ws, tls-verification=true,fast-open=false, udp-relay=false, tag=OR_jp
 
+
+trojan=zhumax.xyz:443, password=2NUMY9UBNRF4Ziyf, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Or_trojan-tls-01
+trojan=152.70.96.36:443, password=2NUMY9UBNRF4Ziyf, over-tls=true, tls-host=zhumax.xyz, tls-verification=true, fast-open=false, udp-relay=false, tag=Or_trojan-tls-02
+
