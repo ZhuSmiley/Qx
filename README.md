@@ -1,9 +1,13 @@
 filters nuw
 
 https://raw.githubusercontent.com/ZhuSmiley/Qx/main/Filter/Ads0.list, tag=Ads1, force-policy=Ads, update-interval=86400, opt-parser=true, enabled=true
+
 https://raw.githubusercontent.com/ZhuSmiley/Qx/main/Filter/Ads00.list, tag=Ads2, force-policy=Ads, update-interval=86400, opt-parser=true, enabled=true
+
 https://raw.githubusercontent.com/ZhuSmiley/Qx/main/Filter/Hij0.list, tag=Hijack, force-policy=Ads, update-interval=86400, opt-parser=true, enabled=true
+
 https://raw.githubusercontent.com/ZhuSmiley/Qx/main/Filter/Privacy0.list, tag=Trace_Reject, force-policy=Ads, update-interval=86400, opt-parser=true, enabled=true
+
 
 
 
