@@ -4,6 +4,7 @@ Modified by evilbutcher
 【仓库地址】https://github.com/evilbutcher/Quantumult_X/tree/master（欢迎star🌟）
 【BoxJs】https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
 #nPlayer 1116905928
+#2021人体解剖学图谱/id1117998129
 
 
 【Quantumult X】
@@ -18,7 +19,7 @@ app可单独设置区域，未单独设置区域，则采用reg默认区域
 */
 const $ = new API("App价格监控");
 let apps = [
-  "1443988620|hk",
+  "1117998129|cn",
   "1116905928 cn",
   "499470113/vn",
   "1314212521-jp",
