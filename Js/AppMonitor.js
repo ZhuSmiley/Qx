@@ -5,12 +5,13 @@ Modified by evilbutcher
 【BoxJs】https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
 #nPlayer 1116905928
 #2021人体解剖学图谱/id1117998129
-
+nplayer-plus/id539397400
+alook浏览器-2倍速/id1261944766
+扫描全能王付费版-文字识别翻译传真/id388624839
 
 【Quantumult X】
 ————————————————
 30 7-22 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/appstore/AppMonitor.js, tag=App价格监控
-
 
 app可单独设置区域，未单独设置区域，则采用reg默认区域
 设置区域方式apps=["1443988620:hk","1443988620/us","1443988620-uk","1443988620_jp","1443988620 au"]
@@ -19,15 +20,11 @@ app可单独设置区域，未单独设置区域，则采用reg默认区域
 */
 const $ = new API("App价格监控");
 let apps = [
-  "1443988620/us"
-  "1117998129|cn",
-  "1116905928 cn",
-  "499470113/vn",
-  "1314212521-jp",
-  "1282297037_au",
-  "932747118:ie",
+  "1117998129",
   "1116905928",
-  "1373567447",
+  "1261944766",  
+  "1116905928",
+  "388624839",
 ]; //app跟踪id
 if ($.read("apps") != "" && $.read("apps") != undefined) {
   apps = $.read("apps").split("，");
